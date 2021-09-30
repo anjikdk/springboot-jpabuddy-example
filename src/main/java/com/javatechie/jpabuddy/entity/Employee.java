@@ -10,6 +10,7 @@ public class Employee {
     @Column(name = "id", nullable = false)
     private Long id;
 
+
     @Column(name = "first_name")
     private String firstName;
 
